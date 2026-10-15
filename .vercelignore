@@ -1,0 +1,20 @@
+*.pdf
+!Application Security.pdf
+!BPS Safety_Foundation.pdf
+!CertificateOfCompletion_Backend Developer 10 habilidades laborales clave (1).pdf
+!Curso Completo de Claude Code Crea Applicaciones con IA.pdf
+!cyber security foundation.pdf
+!Cybersecurity & AI Risk  Management it Profesionals.pdf
+!Cybersecurity Awarness.pdf
+!Generative AI for Leaders & Business Profesionals.pdf
+!Incident Response.pdf
+!IQMSfor plS training.pdf
+!Secure Coding - Secure.pdf
+!Software security Hi Tech.pdf
+*.docx
+*.xlsb
+index-ats.html
+styles-ats.css
+README.md
+.vscode/
+.git/
